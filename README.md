@@ -1,20 +1,15 @@
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="./gif/Welcome.gif" style="width: 100%; height: 200px; pointer-events: none;" alt="Welcome GIF">
-</div>
-
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="./metrics/metrics-core.svg" style="width: 50%; pointer-events: none;" alt="Metrics Core SVG">
-    <img src="./metrics/metrics-achievements.svg" style="width: 50%; pointer-events: none;" alt="Metrics Achievements SVG">
-</div>
-
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="./metrics/metrics-isometric.svg" style="width: 50%; pointer-events: none;" alt="Metrics Isometric SVG">
-    <img src="./metrics/metrics-community.svg" style="width: 50%; pointer-events: none;" alt="Metrics Community SVG">
-</div>
-
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="./gif/Skill.png" style="width: 50%; pointer-events: none;" alt="Skill GIF">
-    <img src="./metrics/metrics-languages.svg" style="width: 50%; pointer-events: none;" alt="Metrics Languages SVG">
-</div>
-
-<img src="./metrics/metrics-pagespeed.svg" style="width: 100%; pointer-events: none;" alt="Metrics Pagespeed SVG">
+<img src="./gif/Welcome.gif" width="100%" height="200" style="pointer: none;" alt="https://github.com/exzgit">
+<div style="display:flex; pointer-events: none;">
+<img src="./metrics/metrics-core.svg" width="50%" style="pointer-events: none;" alt="https://github.com/exzgit">
+<img src="./metrics/metrics-achievements.svg" width="50%" style="pointer-events: none;" alt="https://github.com/exzgit"></div>
+<h2></h2>
+<div style="display:flex; pointer-events: none;">
+<img src="./metrics/metrics-isometric.svg" width="50%" style="pointer-events: none;" alt="https://github.com/exzgit">
+<img src="./metrics/metrics-community.svg" width="50%" style="pointer-events: none;" alt="https://github.com/exzgit"></div>
+<div style="display:flex;">
+<img src="./gif/Skill.png" width="50%" style="pointer-events: none;" alt="https://github.com/exzgit">
+<img src="./metrics/metrics-languages.svg" style="pointer-events: none;" width="50%" alt="https://github.com/exzgit"></div>
+<h2></h2>
+<br>
+<h2></h2>
+<img src="./metrics/metrics-pagespeed.svg" width="100%" style="pointer-events: none;" alt="https://github.com/exzgit">
