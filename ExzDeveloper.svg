@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100">
+  <!-- Menambahkan stylesheet untuk mengatur gaya teks -->
+  <style>
+    /* Menggunakan font custom */
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+
+    /* Menetapkan warna teks */
+    text {
+      fill: #FFA500; /* Warna oranye */
+    }
+  </style>
+  
+  <!-- Menambahkan teks "Hello, World!" dengan font custom -->
+  <text x="10" y="50" font-family="Roboto, sans-serif" font-size="24">
+    Exz Developer
+  </text>
+</svg>
