@@ -6,4 +6,4 @@
 <h2></h2>
 <br>
 <h2></h2>
-<img src="./metrics/metrics-pagespeed.svg" alt="https://github.com/exzgit">
+<img src="./metrics/metrics-pagespeed.svg" style="align-items:center;" alt="https://github.com/exzgit">
