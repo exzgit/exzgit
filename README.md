@@ -1,4 +1,4 @@
-<img src="./gif/Welcome.gif" width="100%" height="200" style="pointer-events: none;" alt="https://github.com/exzgit">
+<img src="./gif/Welcome.gif" width="100%" height="200" style="pointer: none;" alt="https://github.com/exzgit">
 <div style="display:flex; pointer-events: none;">
 <img src="./metrics/metrics-core.svg" width="50%" style="pointer-events: none;" alt="https://github.com/exzgit">
 <img src="./metrics/metrics-achievements.svg" width="50%" style="pointer-events: none;" alt="https://github.com/exzgit"></div>
