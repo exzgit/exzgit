@@ -9,10 +9,4 @@
 <div display="flex"><img src="./gif/Skill.png" style="width:400px;"><img src="./metrics/metrics-languages.svg" style="width:400px;"></div>
 <br>
 <br>
-<table>
-  <tr>
-    <td align="center">
-      <img src="./metrics/metrics-pagespeed.svg" style="width:90%;">
-    </td>
-  </tr>
-</table>
+<div align="center"><img src="./metrics/metrics-pagespeed.svg" style="width:90%;"></div>
