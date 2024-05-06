@@ -1,12 +1,19 @@
 ![Welcome GIF](./gif/Welcome.gif)
-| ![Metrics Core SVG](./metrics/metrics-core.svg) | ![Metrics Achievements SVG](./metrics/metrics-achievements.svg) |
-|:--:|:--:|
-
-| ![Metrics Isometric SVG](./metrics/metrics-isometric.svg) | ![Metrics Community SVG](./metrics/metrics-community.svg) |
-|:--:|:--:|
-
-<div align="center"><img src="./gif/Skill.png"></div>
-
-
-| ![Metrics Pagespeed SVG](./metrics/metrics-pagespeed.svg) | ![Metrics Languages SVG](./metrics/metrics-languages.svg) | 
-|:--:|:--:|
+<div align="center" display="flex"><img src="./metrics/metrics-core.svg"><img src="./metrics/metrics-achievements.svg"></div>
+<br>
+<br>
+<div align="center" display="flex"><img src="./metrics/metrics-isometric.svg"><img src="./metrics/metrics-community.svg"></div>
+<br>
+<br>
+<div align="center" display="flex"><img src="./gif/Skill.png" width="50%"><img src="./metrics/metrics-languages.svg"></div>
+<br>
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="./metrics/metrics-pagespeed.svg">
+    </td>
+  </tr>
+</table>
+</div>
