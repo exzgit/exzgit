@@ -1,5 +1,6 @@
+<div align="right"><a href="https://trakteer.id/ExzDeveloper/tip" target="_blank" style="text-decoration:none; "><img width="20%" src="gif/SupportMe.png" alt="https://trakteer.id/ExzDeveloper"></a></div>
+
 ![Welcome GIF](./gif/Welcome.gif)
-<div align="right"><a href="https://trakteer.id/ExzDeveloper/tip" target="_blank" style="text-decoration:none; "><img src="" alt="https://trakteer.id/ExzDeveloper"></a></div>
 
 <div display="flex"><img src="./metrics/metrics-core.svg" style="width:400px;"><img src="./metrics/metrics-achievements.svg" style="width:400px;"></div>
 <br>
