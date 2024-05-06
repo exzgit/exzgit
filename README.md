@@ -6,7 +6,7 @@
 <div display="flex"><img src="./metrics/metrics-isometric.svg" style="width:400px;"><img src="./metrics/metrics-community.svg" style="width:400px;"></div>
 <br>
 <br>
-<div display="flex"><img src="./gif/Skill.png" style="width:50%;"><img src="./metrics/metrics-languages.svg"></div>
+<div display="flex"><img src="./gif/Skill.png" style="width:400px;"><img src="./metrics/metrics-languages.svg" style="width:400px;"></div>
 <br>
 <br>
 <div>
