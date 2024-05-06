@@ -1,9 +1,9 @@
 ![Welcome GIF](./gif/Welcome.gif)
-<div align="center" width="100%>
-<div display="flex"><img src="./metrics/metrics-core.svg"><img src="./metrics/metrics-achievements.svg"></div>
+
+<div display="flex"><img src="./metrics/metrics-core.svg" width="auto"><img src="./metrics/metrics-achievements.svg" width="auto"></div>
 <br>
 <br>
-<div display="flex"><img src="./metrics/metrics-isometric.svg"><img src="./metrics/metrics-community.svg"></div>
+<div display="flex"><img src="./metrics/metrics-isometric.svg" width="auto"><img src="./metrics/metrics-community.svg" width="auto"></div>
 <br>
 <br>
 <div display="flex"><img src="./gif/Skill.png" width="50%"><img src="./metrics/metrics-languages.svg"></div>
@@ -17,5 +17,4 @@
     </td>
   </tr>
 </table>
-</div>
 </div>
