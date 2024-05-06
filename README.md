@@ -1,5 +1,5 @@
 ![Welcome GIF](./gif/Welcome.gif)
-<div align="center">
+<div align-items="center">
 <div display="flex"><img src="./metrics/metrics-core.svg"><img src="./metrics/metrics-achievements.svg"></div>
 <br>
 <br>
