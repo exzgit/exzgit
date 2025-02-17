@@ -1,57 +1,61 @@
-![Welcome GIF](./gif/Welcome.gif)
-
-# Halo, Saya Ezra (Exzgit) 👋
-
-Selamat datang di portfolio saya! Saya adalah **Ezra Valen Ne Tofa**, seorang developer yang penuh semangat, dengan pengalaman di berbagai proyek mulai dari game hingga aplikasi web dan mobile. Saya berfokus pada solusi inovatif untuk menyelesaikan masalah kompleks dan terus belajar hal-hal baru di dunia teknologi.
+Berikut adalah terjemahan portofolio Anda ke dalam bahasa Inggris:  
 
 ---
 
-## Tentang Saya
+# ![Welcome GIF](./gif/Welcome.gif)
 
-Saya memulai perjalanan saya di dunia teknologi dengan rasa ingin tahu yang tinggi dan telah tumbuh menjadi seorang programmer profesional. Sebagai bagian dari tim pengembang, saya pernah terlibat dalam pembuatan game *The Haunted Toyshop* di mana saya berperan sebagai programmer. Proyek ini merupakan kolaborasi bersama rekan-rekan seperti Herdy Hardiyant dan Punto Putra, yang membuktikan kemampuan saya untuk bekerja dalam tim dan mengelola proyek dengan skala menantang.  
+# Hello, I'm Ezra (Exzgit) 👋  
 
----
-
-## Proyek Unggulan
-
-### The Haunted Toyshop
-- **Deskripsi:** Game puzzle yang dapat diunduh untuk platform Windows. Proyek ini merupakan hasil kolaborasi dari Kelompok-4 dengan peran saya sebagai programmer.
-- **Platform:** Windows
-- **Detail:** Proyek ini menonjolkan kreativitas serta pemanfaatan engine Unity dan asset dari Unity Asset Store.
-- **Link:** [Lihat di itch.io](https://pikaruo.itch.io/the-haunted-toyshop)
+Welcome to my portfolio! I am **Ezra Valen Ne Tofa**, a passionate developer with experience in various projects, ranging from game development to web and mobile applications. I focus on innovative solutions to solve complex problems and continuously learn new things in the world of technology.  
 
 ---
 
-## Keterampilan
+## About Me  
 
-<div align="center">
-  <img src="./gif/Skill.png" alt="Skill Visual" style="width:400px;">
-  <img src="./metrics/metrics-languages.svg" alt="Skill Metrics" style="width:400px;">
-</div>
-
-- **Bahasa Pemrograman:** Python, C#, C
-- **Framework & Library:** React, Node.js
-- **Alat & Platform:** Git, Docker, AWS
-- **Database:** MySQL, MongoDB, PostgreSQL
-- **Lainnya:** Agile, Test-Driven Development (TDD), CI/CD, Unity Engine
+I started my journey in technology with a deep curiosity and have grown into a professional programmer. As part of a development team, I was involved in the creation of the game *The Haunted Toyshop*, where I worked as a programmer. This project was a collaboration with colleagues such as Herdy Hardiyant and Punto Putra, showcasing my ability to work in a team and manage challenging projects.  
 
 ---
 
-## Visualisasi & Pencapaian
+## Featured Projects  
 
-<img src="./metrics/metrics-achievements.svg" alt="Skill Visual" style="width:400px;">
-
-Di atas terdapat visualisasi mengenai distribusi keterampilan dan bahasa pemrograman yang telah saya kuasai. Angka-angka tersebut merupakan representasi dari pengalaman dan kontribusi saya di berbagai proyek.
-
----
-
-## Hubungi Saya
-
-Saya terbuka untuk kolaborasi dan diskusi lebih lanjut seputar pengembangan perangkat lunak dan proyek inovatif. Jangan ragu untuk menghubungi saya melalui:
-
-- **Email:** officialbangezz@gmail.com
-- **LinkedIn:** [Ezra Tofa](https://www.linkedin.com/in/ezra-tofa-68843228a/)
+### The Haunted Toyshop  
+- **Description:** A puzzle game available for download on Windows. This project was developed by Group-4, where I played a role as a programmer.  
+- **Platform:** Windows  
+- **Details:** The project highlights creativity and utilizes the Unity engine along with assets from the Unity Asset Store.  
+- **Link:** [View on itch.io](https://pikaruo.itch.io/the-haunted-toyshop)  
 
 ---
 
-Terima kasih telah mengunjungi portfolio saya. Semoga informasi ini membantu Anda memahami latar belakang dan karya yang telah saya buat. Selamat menjelajah!
+## Skills  
+
+<div align="center">  
+  <img src="./metrics/metrics-languages.svg" alt="Skill Metrics" style="width:400px;">  
+  <img src="./gif/Skill.png" alt="Skill Visual" style="width:400px;">  
+</div>  
+
+- **Programming Languages:** Python, C#, C  
+- **Frameworks & Libraries:** React, Node.js  
+- **Tools & Platforms:** Git, Docker, AWS  
+- **Databases:** MySQL, MongoDB, PostgreSQL  
+- **Others:** Agile, Test-Driven Development (TDD), CI/CD, Unity Engine  
+
+---
+
+## Visualizations & Achievements  
+
+<img src="./metrics/metrics-achievements.svg" alt="Skill Visual" style="width:400px;">  
+
+Above is a visualization of the distribution of my skills and programming languages. These numbers represent my experience and contributions across various projects.  
+
+---
+
+## Contact Me  
+
+I am open to collaboration and further discussions about software development and innovative projects. Feel free to reach out to me through:  
+
+- **Email:** officialbangezz@gmail.com  
+- **LinkedIn:** [Ezra Tofa](https://www.linkedin.com/in/ezra-tofa-68843228a/)  
+
+---
+
+Thank you for visiting my portfolio. I hope this information helps you understand my background and the projects I have worked on. Enjoy exploring!  
