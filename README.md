@@ -1,6 +1,4 @@
-Berikut adalah terjemahan portofolio Anda ke dalam bahasa Inggris:  
 
----
 
 # ![Welcome GIF](./gif/Welcome.gif)
 
