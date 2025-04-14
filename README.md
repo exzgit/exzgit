@@ -1,5 +1,3 @@
-
-
 # ![Welcome GIF](./gif/Welcome.gif)
 
 # Hello, I'm Ezra (Exzgit) 👋  
