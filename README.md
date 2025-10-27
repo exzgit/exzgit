@@ -12,21 +12,35 @@ The mission is simple: solve real problems, deliver value, and keep it clean.
 When I’m not working on distributed systems, I enjoy experimenting with game technology. Both share the same fundamentals precision, efficiency, and the drive to make things run smoothly under load.
 
 **Core technologies I work with:**
-
 <p align="left">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </p>
 
+
+<table align="center">
+  <tr>
+    <td>
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ezvalorazetho&theme=tokyonight&hide_border=true&background=0d1117"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezvalorazetho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+    </td>
+  </tr>
+</table>
+
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezvalorazetho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ezvalorazetho&theme=tokyonight&hide_border=true&background=0d1117"/>
+  
+  
 </p>
 
 I’m always open to collaborating on ambitious projects whether it’s open-source tools, infrastructure systems, or game tech that pushes boundaries.
@@ -52,3 +66,5 @@ Let’s build something that makes an impact.
 *"The best way to predict the future is to invent it."* - _Ezra Valenne Tofa_
 
 </div>
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
