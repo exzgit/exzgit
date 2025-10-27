@@ -36,179 +36,84 @@ I'm a **passionate software developer** specializing in **high-performance syste
 
 ## 🎯 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🔷 Aether Edge Computing Framework
-
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/> <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WASM"/> <img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Tokio"/>
-
-</div>
-
+### 🔷 Aether Edge Computing Framework  
 **High-performance edge computing platform with WebAssembly runtime**
 
-Deploy serverless WASM functions to distributed edge nodes with sub-millisecond latency. Built with Rust for maximum performance, featuring automatic orchestration and sandboxed execution environments.
+Deploy serverless WASM functions to distributed edge nodes with sub-millisecond latency.  
+Built with **Rust** for performance and sandboxed isolation.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Tech Stack:** `Rust` · `WebAssembly` · `Tokio` · `Actix-web`  
+**Highlights:** `Sub-5ms cold starts` · `WASI sandboxing` · `10K+ req/s`  
 
-**🎯 Core Features**
-- ⚡ Sub-5ms cold starts
-- 🔒 Sandboxed WASM execution
-- 🌐 Automatic node coordination
-- 📊 10k+ requests/second throughput
-- 🛡️ WASI isolation per function
-- 🔄 Smart module caching
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ezvalorazetho/aether-edge)
+[![Crates.io](https://img.shields.io/badge/Crates-FC8D62?style=flat-square&logo=rust&logoColor=white)](https://crates.io/crates/aether-edge)
+[![License](https://img.shields.io/badge/Apache_2.0-blue?style=flat-square)](https://github.com/ezvalorazetho/aether-edge/blob/main/LICENSE)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-**🛠️ Technology Stack**
-- **Runtime:** Rust, WebAssembly, WASI
-- **Async:** Tokio, async-std
-- **Storage:** Sled DB
-- **Networking:** Actix-web
-- **Deployment:** Docker, Kubernetes-ready
+### 🎮 The Haunted Toyshop  
+**Horror puzzle adventure built with Unity Engine**
+
+Atmospheric horror game featuring immersive puzzles and creative storytelling.  
+Developed collaboratively to showcase design & gameplay engineering.
+
+**Tech Stack:** `Unity` · `C#` · `Windows`  
+**Highlights:** `Puzzle mechanics` · `Horror aesthetics` · `Team project`  
+
+<div align="center">
+
+[![Play](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://pikaruo.itch.io/the-haunted-toyshop)
+[![Download](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://pikaruo.itch.io/the-haunted-toyshop)
+
+</div>
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ezvalorazetho/aether-edge)
-[![Crates.io](https://img.shields.io/badge/Crates.io-FC8D62?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/crates/aether-edge)
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge)](https://github.com/ezvalorazetho/aether-edge/blob/main/LICENSE)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎮 The Haunted Toyshop
-
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-
-</div>
-
-**Horror puzzle adventure game built with Unity Engine**
-
-An atmospheric horror puzzle game featuring challenging gameplay mechanics and immersive environments. Developed as part of Group-4 collaboration, showcasing teamwork and creative problem-solving in game development.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎨 Game Features**
-- 🌙 Atmospheric horror aesthetics
-- 🧩 Complex puzzle mechanics
-- 🎵 Immersive sound design
-- 🎭 Engaging storyline
-- 🏆 Achievement system
-- 🎮 Intuitive controls
-
-</td>
-<td width="50%" valign="top">
-
-**👥 Development Team**
-- **Programmer:** Ezra Valen Ne Tofa
-- **Designer:** Herdy Hardiyant
-- **Sound & Assets:** Punto Putra
-- **Platform:** Windows Desktop
-- **Engine:** Unity 3D with C#
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![Play Game](https://img.shields.io/badge/Play_on_Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://pikaruo.itch.io/the-haunted-toyshop)
-[![Download](https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://pikaruo.itch.io/the-haunted-toyshop)
-
-</div>
 
 ---
 
 ## 💻 Tech Stack & Tools
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔤 Programming Languages
-
-<p align="center">
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C/C++"/>
+  <img src="https://img.shields.io/badge/JavaScript/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="JavaScript/TypeScript"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/C%23_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# .NET"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 </p>
 
-### 🛠️ Frameworks & Libraries
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-<img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Tokio"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Actix"/>
+<p align="right">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### 🗄️ Databases & Storage
-
-<p align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/Sled-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Sled"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"/>
+  <img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Tokio"/>
+  <img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Actix"/>
 </p>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Tools & Platforms
-
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
-### 🌐 Web Technologies
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-</p>
-
-### 📋 Development Practices
-
-<p align="center">
-<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile"/>
-<img src="https://img.shields.io/badge/TDD-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="TDD"/>
-<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
-<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"/>
-</p>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
