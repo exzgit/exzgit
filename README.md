@@ -15,7 +15,7 @@
 
 ## 🌟 About Me
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 <td width="55%" valign="top">
