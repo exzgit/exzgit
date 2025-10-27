@@ -18,46 +18,12 @@
 <div align="left">
 <table>
 <tr>
-<td width="55%" valign="top">
-
-```rust
-
-let whoami = AboutMe {
-    name: "Ezra Valen Ne Tofa",
-    alias: "Exzgit",
-    role: "Full-Stack Developer",
-    location: "🌏 Indonesia",
-
-    working_on: {
-        primary: "Edge Computing Systems",
-        secondary: "Game Development"
-    },
-
-    expertise: [
-        "Systems Programming",
-        "Game Development",
-        "Web Applications",
-        "Distributed Systems"
-    ],
-
-    learning: [
-        "WebAssembly",
-        "Cloud Native Architecture"
-    ],
-
-    philosophy: "Code with purpose, build with passion"
-};
-
-```
-
-<br>
+<td width="50%" valign="top">
 
 I'm a **passionate software developer** specializing in **high-performance systems** and **creative game development**. With experience spanning from low-level systems programming to immersive game experiences, I focus on building innovative solutions that push technical boundaries.
 
-Currently exploring **edge computing architectures** and **real-time distributed systems**.
-
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api?username=exzgit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="100%">
 
