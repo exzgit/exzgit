@@ -2,7 +2,7 @@
 
 # Hello, World!
 
-</div>
+</div> 
 
 My name is Ezra Valenne Tofa,
 I build and design software systems with a focus on solving meaningful problems. My work touches backend services, distributed systems, real-time applications, and game engine development. I value performance, scalability, and long-term maintainability in everything I create.
