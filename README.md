@@ -27,7 +27,7 @@ When I’m not working on distributed systems, I enjoy experimenting with game t
 </p>
 
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td>
      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ezvalorazetho&theme=tokyonight&hide_border=true&background=0d1117"/>
@@ -36,7 +36,7 @@ When I’m not working on distributed systems, I enjoy experimenting with game t
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezvalorazetho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 <p align="left">
   
@@ -66,5 +66,3 @@ Let’s build something that makes an impact.
 *"The best way to predict the future is to invent it."* - _Ezra Valenne Tofa_
 
 </div>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
