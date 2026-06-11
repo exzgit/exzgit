@@ -1,8 +1,6 @@
-Frontend Developer with a strong focus on building clean, responsive, and user-centric interfaces using React and modern web technologies. I approach frontend development not just as UI construction, but as part of a larger system where performance, maintainability, and user experience are tightly connected.
+Frontend Developer focused on building scalable and user-friendly web interfaces with React. I pay close attention to performance, maintainability, and overall user experience.
 
-To deepen my understanding beyond the interface layer, I actively explore backend systems and low-level engineering. This includes working with technologies like Node.js, Rust, and C++, allowing me to better understand how data flows, how systems are structured, and how performance can be optimized from the ground up.
-
-Most of the repositories here represent ongoing experiments, learning projects, and small tools. They serve as a sandbox to test ideas, explore new technologies, and refine engineering practices. The goal is not only to build functional applications, but to continuously improve how systems are designed and implemented.
+Beyond frontend, I explore backend systems and low-level engineering to better understand how applications work end-to-end. Most repositories here are experiments, small tools, and learning projects aimed at improving both technical depth and problem-solving skills.
 
 **Skills**
 
