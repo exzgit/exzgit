@@ -1,6 +1,6 @@
 Frontend developer focused on building user interfaces with React, while also exploring backend systems and low-level engineering to better understand how systems work beyond the UI. Most repositories here are experiments, learning projects, or small tools.
 
-### Skills
+**Skills**
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
